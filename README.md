@@ -1,13 +1,13 @@
 # Native Calculator 📱
 
 <p>
-  🇺🇸 Study project with React Native, Expo and JavaScript!
+  🇺🇸 Calculator made with React Native, Expo and JavaScript!
 </p>
 
 <br/>
 
 <p>
-  🇧🇷 Projeto de estudos com React Native, Expo e JavaScript!
+  🇧🇷 Calculadora feita com React Native, Expo e JavaScript!
 </p>
 
 ## 🇺🇸 If you want to analyze the project on your machine, follow this step by step. 🇧🇷 Caso você queira analisar o projeto em sua máquina, siga este passo a passo: 😁
