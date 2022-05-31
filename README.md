@@ -84,7 +84,7 @@ exp://192.168.0.12:19000
     <li>Android Studio</li>
 </ul>
 
-##  🇧🇷 Feito por / 🇺🇸 Made by:
+##  🇧🇷 Feito por | 🇺🇸 Made by:
 
 ### João Victor dos Santos Moura
 ### E-mail: joaovictors.mouraa@gmail.com
